@@ -5,7 +5,7 @@
 📍 Sri Lanka
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shasvinth&label=Profile%20views&color=0e75b6&style=flat" alt="shasvinth" />
+  <img src="https://komarev.com/ghpvc/?username=mhzakirhassan&label=Profile%20views&color=0e75b6&style=flat" alt="shasvinth" />
 </p>
 
 “Indeed, with hardship comes ease.” — Qur’an 94:6
