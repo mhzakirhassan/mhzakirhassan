@@ -1,3 +1,7 @@
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 # 👋 Hey, I'm Zakir Hassan
 
 🚀 Aspiring Engineer | 🧠 AI Explorer | 🎨 Creative Designer  
