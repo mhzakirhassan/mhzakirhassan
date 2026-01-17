@@ -13,7 +13,6 @@
 I love building things that mix **tech + creativity** — from AI models to cool graphics and interactive systems.  
 Right now, I’m deep into **OCR, gesture recognition, and smart model selection systems** 👇
 
-<img src="https://media1.tenor.com/m/nrrBWGnDMU0AAAAd/homework-jim-carrey.gif" width="300"/>
 
 ---
 # 💫 About Me:
